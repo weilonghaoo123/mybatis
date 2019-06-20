@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/预习资料/ssm/mybatis-day03/案例/itheima_mybatis_anno/itheima_mybatis_anno.iml" filepath="D:/预习资料/ssm/mybatis-day03/案例/itheima_mybatis_anno/itheima_mybatis_anno.iml" />
+      <module fileurl="file://D:/预习资料/ssm/spring-day03/03-Spring的AOP/案例/itheima_spring_aop/itheima_spring_aop.iml" filepath="D:/预习资料/ssm/spring-day03/03-Spring的AOP/案例/itheima_spring_aop/itheima_spring_aop.iml" />
+      <module fileurl="file://D:/预习资料/ssm/spring-day02/02-SpringIoC和DI注解开发/案例/itheima_spring_ioc_anno/itheima_spring_ioc_anno.iml" filepath="D:/预习资料/ssm/spring-day02/02-SpringIoC和DI注解开发/案例/itheima_spring_ioc_anno/itheima_spring_ioc_anno.iml" />
+      <module fileurl="file://D:/预习资料/ssm/springmvc-day02/02-SpringMVC的请求和响应/案例/itheima_spring_mvc/itheima_spring_mvc.iml" filepath="D:/预习资料/ssm/springmvc-day02/02-SpringMVC的请求和响应/案例/itheima_spring_mvc/itheima_spring_mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_anno/mybatis_anno.iml" filepath="$PROJECT_DIR$/mybatis_anno/mybatis_anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_aop/spring_aop.iml" filepath="$PROJECT_DIR$/spring_aop/spring_aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_iocanno/spring_iocanno.iml" filepath="$PROJECT_DIR$/spring_iocanno/spring_iocanno.iml" />
+    </modules>
+  </component>
+</project>
